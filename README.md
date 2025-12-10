@@ -3,10 +3,6 @@
 <h1 align="center">♱Prince Benjamin S. Villaruel♱</h1>
 
 ###
-
-<p align="center">CPE11S2</p>
-
-###
 <div align="center">
   <img height="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHMwMmJlYjVicXRxZHlrMjR5MXp5NTdiem1pNzVsMGIyOHVhZmd0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93fLvPhKx3dQlW7mHM/giphy.gif"  />
 </div>
