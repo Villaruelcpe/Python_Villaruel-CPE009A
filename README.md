@@ -1,19 +1,19 @@
 # Prince Villaruel
 
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd4ZzN5cnlsZnN3emNueWNvM2g1emk2NTh3MzBiaDczOHkwcjJndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TyRl9pQHR3w3vpjPaP/giphy.gif"  />
+  <img height="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd4ZzN5cnlsZnN3emNueWNvM2g1emk2NTh3MzBiaDczOHkwcjJndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TyRl9pQHR3w3vpjPaP/giphy.gif"  />
 </div>
 
 ###
 
 <div align="left">
-  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI2eTZwZ3lwcjByMmxlZGhranFvZHZobjF0eTNhbzRubmdyNGI1ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58DkA2Btff3yKVOQDK/giphy.webp"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI2eTZwZ3lwcjByMmxlZGhranFvZHZobjF0eTNhbzRubmdyNGI1ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58DkA2Btff3yKVOQDK/giphy.webp"  />
 </div>
 
 ###
 
 <div align="right">
-  <img height="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG40OG8wM3JhM3IxaHhlN3lyaWcxaHZtcGszbjV6aXR5bXluZDZ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EeIHLd7G9QfqSbFEs/giphy.gif"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG40OG8wM3JhM3IxaHhlN3lyaWcxaHZtcGszbjV6aXR5bXluZDZ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EeIHLd7G9QfqSbFEs/giphy.gif"  />
 </div>
 
 ###
