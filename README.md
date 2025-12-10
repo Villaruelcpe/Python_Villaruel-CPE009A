@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">✨  I'm currently learning ...<br>🎯 Goals: Python</p>
+<p align="left">✨  I'm currently learning Python</p>
 
 ###
 
