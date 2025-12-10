@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Prince and I'm a CPE student from Technological Institute of the Philippines</p>
+<p align="center">My name is Prince and I'm a CPE student from Technological Institute of the Philippines</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
