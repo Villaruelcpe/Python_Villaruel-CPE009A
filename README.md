@@ -18,6 +18,6 @@
 
 ###
 
-<p align="center">💀Prince Benjamin S. Villaruel💀</p>
+<h1 align="center">💀Prince Benjamin S. Villaruel💀</h1>
 
 ###
