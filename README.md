@@ -18,29 +18,6 @@
 
 ###
 
-<style>
-  h1 {
-    font-family: 'Shadows Into Light', cursive;
-    text-align: center;
-  }
-</style>
-
-<h1>PRINCE BENJAMIN S. VILLARUEL</h1>
-
-<p align="center">My name is Prince and I'm a CPE student from Technological Institute of the Philippines</p>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Villaruelcpe.Villaruelcpe&"  />
-</div>
+<p align="center">Prince Benjamin S, Villaruel</p>
 
 ###
