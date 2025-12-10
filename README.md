@@ -1,1 +1,8 @@
 # Python_Villaruel-CPE009A
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Villaruelcpe/Villaruelcpe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Villaruelcpe/Villaruelcpe/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Villaruelcpe/Villaruelcpe/output/pacman-contribution-graph.svg">
+</picture>
+
+###
