@@ -18,9 +18,14 @@
 
 ###
 
-<h1 style="font-family: 'Playfair Display', serif; text-align:center;">
-  PRINCE BENJAMIN S. VILLARUEL
-</h1>
+<style>
+  h1 {
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+  }
+</style>
+
+<h1>PRINCE BENJAMIN S. VILLARUEL</h1>
 
 <p align="center">My name is Prince and I'm a CPE student from Technological Institute of the Philippines</p>
 
