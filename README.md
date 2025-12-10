@@ -23,7 +23,7 @@
 
 ###
 <div>
-  <img style="200%" src="https://capsule-render.vercel.app/api?type=waving&height=137&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+  <img style="500%" src="https://capsule-render.vercel.app/api?type=waving&height=137&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
 ###
